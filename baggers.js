@@ -13938,7 +13938,43 @@ var data = {
         "twitter": "JB_Beuzelin",
         "mail": "jbbeuzelin@gmail.com"
       }
+    },
+    {
+  "since": "2016-12-05",
+  "name": "Pierre-Antoine Antonini",
+  "bio": "Product Manager Freelance",
+  "picture": "http://www.emporiatech.com/wp-content/uploads/2016/11/profil.jpg",
+  "websites": [
+    {
+      "name": "Emporiatech",
+      "url": "http://www.emporiatech.com/"
     }
+  ],
+  "location": "Paris",
+  "sessions": [
+    {
+      "title": "Quel produit construire?",
+      "abstract": "Comment trouver le futur produit à succès que vous souhaiteriez concevoir. Je vous présente plusieurs méthodes pour comprendre vos potentiels clients et révéler leurs besoins inassouvis. Tout cela en vue de bâtir un produit qui se vendra et sera rentable",
+      "tags": [
+        "Produit",
+        "Gestion de Produit",
+        "Lean Startup",
+        "Customer development",
+        "Product discovery"
+      ],
+      "lang": [
+        "fr","en"
+      ]
+    }
+  ],
+  "cities": [
+    "Paris"
+  ],
+  "contacts": {
+    "twitter": "emporiatech",
+    "mail": "contact@emporiatech.com"
+  }
+}
   ],
   "cities": {
     "Aix-en-Provence": {
